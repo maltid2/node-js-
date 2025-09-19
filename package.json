@@ -1,0 +1,12 @@
+{
+  "name": "insta-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "instagram-private-api": "^1.43.1"
+  }
+}
